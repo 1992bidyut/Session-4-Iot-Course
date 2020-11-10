@@ -1,0 +1,2 @@
+Android Compiled HEX file path: C:\Users\1992b\AppData\Local\Temp
+Arduino Lib: https://www.theengineeringprojects.com/2015/12/arduino-library-proteus-simulation.html
