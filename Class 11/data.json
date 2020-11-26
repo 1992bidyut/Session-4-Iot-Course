@@ -1,0 +1,36 @@
+[
+	{
+		"value1":5,
+		"value2":3.5,
+		"value3":"iot",
+		"value4":true,
+		"list":[
+				{
+					"value": 5
+				},
+				{
+					"value": 5
+				},
+				{
+					"value": 5
+				}
+			]
+	},
+	{
+		"value1":5,
+		"value2":3.5,
+		"value3":"iot",
+		"value4":true,
+		"list":[
+				{
+					"value": 5
+				},
+				{
+					"value": 5
+				},
+				{
+					"value": 5
+				}
+			]
+	}
+]
